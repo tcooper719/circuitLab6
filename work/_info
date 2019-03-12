@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/code/verilog/lab5
+vcounterUpDown
+!s110 1524438321
+!i10b 1
+!s100 f1Zd?G8kK?EghfMAMYg]D1
+IY`UUc4FCWVT2UzjolfY8z3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/lab6
+w1524438308
+8D:/lab6/counter.v
+FD:/lab6/counter.v
+L0 2
+Z2 OV;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1524438321.000000
+!s107 D:/lab6/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/lab6/counter.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+ncounter@up@down
+vtestbench
+!s110 1524440992
+!i10b 1
+!s100 P[J>VBJeT^_DcH8IRlM]<1
+IU`P7j8Vkf?hU6LO0iGAgH0
+R0
+R1
+w1524440983
+8D:/lab6/testbench.v
+FD:/lab6/testbench.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1524440992.000000
+!s107 D:/lab6/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/lab6/testbench.v|
+!i113 1
+R3
+R4

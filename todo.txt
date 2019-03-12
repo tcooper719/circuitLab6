@@ -1,0 +1,5 @@
+//16bit binary up/down counter
+reset
+parallel load
+overflow detection
+    overflow detection outputs a 1 for one cycle
